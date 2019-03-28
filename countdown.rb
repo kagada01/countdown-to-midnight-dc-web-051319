@@ -2,7 +2,8 @@
 
 def countdown(number)
   if (number == 0)
-      puts "HAPPY NEW YEAR!"
+      phrase = "HAPPY NEW YEAR!"
+      phrase
     else 
     end
   while number > 0
